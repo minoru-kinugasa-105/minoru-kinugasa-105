@@ -13,7 +13,7 @@ My goal is to create user-friendly and visually appealing websites that provide 
 * **Back-End Development:** Node.js, Python, SQLite, MySQL
 * **Design & Prototyping:** Figma, Photoshop
 * **Tools:** VS Code, GitHub, Google Apps Script, Arduino
-![Skills & Tools](https://skillicons.dev/icons?i=html,css,sass,js,ts,google-apps-script,python3,sqlite3,arduino,node,vue,react,figma,ps,vscode,github,mysql)
+![Skills & Tools](https://skillicons.dev/icons?i=html,css,sass,js,ts,python,arduino,nodejs,vue,react,figma,ps,vscode,github,mysql)
 
 ## 🤝 Get in Touch 🤝
 
